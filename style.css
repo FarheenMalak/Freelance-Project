@@ -95,11 +95,8 @@ p {
 #playbtn{
     height:50px;
     width:50px;
-    font-size: 10px;
+    font-size: 25px;
     padding: 0.5rem;
-}
-#line{
-    border-top: 2px solid #fff;
 }
 #slider {
    max-width: 40rem;
