@@ -138,9 +138,8 @@ p {
     position: absolute;
     bottom: 10px;
     left: 50%;
-    transform: translateY(-50%);
+    transform: translateX(-50%);
     display: flex;
-    flex-direction:column;
     gap: 0.5rem;
 }
 
